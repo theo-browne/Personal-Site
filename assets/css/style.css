@@ -1,0 +1,9 @@
+.links{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-top: -10px
+}
